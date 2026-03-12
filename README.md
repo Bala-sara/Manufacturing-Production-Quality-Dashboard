@@ -22,6 +22,10 @@ In the initial data preparation phase, I performed the following tasks:
 1. Performed ETL using Python to clean and transform raw data.
 2. Handled missing values and formatted columns using Pandas.
 3. Exported the processed dataset for visualization in Power BI.
+   
+<img width="1285" height="795" alt="Screenshot 2026-03-12 155300" src="https://github.com/user-attachments/assets/ee4affc4-61a2-4678-b404-5c7faa8c3254" />
+
+
 
 
 ## Exploratory Data Analysis
