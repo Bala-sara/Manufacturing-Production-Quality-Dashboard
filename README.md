@@ -10,7 +10,7 @@ This project analyzes manufacturing production performance, defect rates, and ma
 
 ## Data Sources
 
-The primary dataset used for this analysis is the ".xlsx" file, containing detailed information about manufacturing operational data
+The primary dataset used for this analysis is the "clean_manufacturing_data.xlsx" file, containing detailed information about manufacturing operational data
 
 ## Tools
 - Python - Data Cleaning and Transform
